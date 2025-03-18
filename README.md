@@ -26,3 +26,6 @@ working and didn't want to override what we have working. If someone does a diff
 a note stating so) -Olivia
 
 I think I got the random question working - Jaxon
+
+
+I added in the alphabetical to A-Z/Z-A that Corey had done last Thursday. Made sure it all works added in too. - Olivia
