@@ -7,3 +7,21 @@
 https://github.com/Olivia-Sharpston/dev-easy/blob/c9e816147641bd407b8c92f7efe5e6db72cdfe10/scripts/script.js#L72-L84
 
 
+#### This is the piece that Jaxon had done for our feature a random fact.
+``` javascript
+        for(index = 0; index < classFacts.length; index++){
+        console.log(index);
+        $('#classFactList').append('<li class="list-group-item">' + classFacts[index] + '</li>');
+
+        function displayRandomFact() {
+        const randomFact = classFacts[Math.floor(Math.random() * classFacts.length)];
+        document.getElementById('randomFactHeader').innerText = randomFact;
+    }
+
+    $('#randomFactHeader').css('text-align', 'center');
+
+    displayRandomFact();
+        
+        renderList();
+    }
+```
