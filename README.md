@@ -8,7 +8,7 @@
 #### Here is a piece that Corey had done to sort the class facts in A-Z or Z-A order.
 https://github.com/Olivia-Sharpston/dev-easy/blob/c9e816147641bd407b8c92f7efe5e6db72cdfe10/scripts/script.js#L72-L84
 
-
+Using `const classFacts = [];` allowed us to set up an array with all of our class facts in seperated by a comma inside the brackets.
 
 #### This is the piece that Jaxon had done for our feature a random fact.
 ``` javascript
