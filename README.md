@@ -31,7 +31,7 @@ https://github.com/Olivia-Sharpston/dev-easy/blob/c9e816147641bd407b8c92f7efe5e6
 
 
 
-#### Here is a part of code used in order to make our facts editable. However, with this, it does not change the actual facts in the array. It only changed them on the webpage, and a simple refresh would have the facts back to normal.
+Here is a part of code used in order to make our **facts editable**. However, with this, it **does not change the actual facts** in the array. It only changed them on the webpage, and a simple refresh would have the facts back to normal.
 ``` diff
         classFacts.forEach((fact, index) => {
             const factText = $("<div>").addClass("fact-text").attr("contenteditable", true).text(fact);
