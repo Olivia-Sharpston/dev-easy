@@ -42,7 +42,10 @@ https://github.com/Olivia-Sharpston/dev-easy/blob/c9e816147641bd407b8c92f7efe5e6
 ```
 
 <details><summary>What were our random facts??</summary>
+        
 * Olivia knows her alphabet backwards
 * Jaxon broke his finger
 * Corey said he was not famous
-* Hayden likes to swim </details>
+* Hayden likes to swim
+
+</details>
